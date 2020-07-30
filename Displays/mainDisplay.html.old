@@ -1,0 +1,13 @@
+<html>
+<head>
+    <script src="displayController.js"></script>
+    <title>Prueba</title>
+
+</head>
+<body onload="load();" style="background-color: white;" >
+<h1>Prueba</h1>
+<input id="entrada" />
+<button id="btn0">Click</button>
+<button id="btn1">otro click</button>
+</body>
+</html>
